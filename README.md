@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @akkharolia
+- 👋 Hi, I’m Ajay Khrolia.
 - 👀 I’m interested in Django, React.Js, Vue.Js
-- 🌱 I’m currently learning Redux with React.Js and Data Science
+- 🌱 I’m currently learning Redux with React.Js
 - 📫 How to reach me => akkharolia@gmail.com
 
 <!---
