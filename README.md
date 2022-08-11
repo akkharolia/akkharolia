@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ajay Khrolia.
 - 👀 I’m interested in Django, React.Js, Vue.Js
-- 🌱 I’m currently learning Redux with React.Js
+- 🌱 Building web apps with JavaScript and python frameworks. 
 - 📫 How to reach me => akkharolia@gmail.com
 
 <!---
